@@ -1,3 +1,0 @@
-# GitHub Personal Access Token
-# Replace this with your actual GitHub PAT
-github_pat="your_github_pat_here"
