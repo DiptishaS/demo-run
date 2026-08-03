@@ -1,1 +1,30 @@
-PAT=mypersonalaccesstoken
+# Demo Application Configuration
+# Internal Use Only
+
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=demo_db
+DB_USER=admin
+
+# API Configuration
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here  # For internal use only
+
+# Authentication
+PAT=your_personal_access_token_here  # Internal PAT token
+OAUTH_CLIENT_ID=your_client_id
+OAUTH_CLIENT_SECRET=your_client_secret
+
+# Environment Settings
+ENVIRONMENT=development
+LOG_LEVEL=info
+PORT=3000
+
+# Security Settings
+JWT_SECRET=your_jwt_secret_key
+ENCRYPTION_KEY=your_encryption_key_here
+
+# Feature Flags
+ENABLE_FEATURE_A=true
+ENABLE_FEATURE_B=false
