@@ -1,1 +1,1 @@
-my github pat that we are usin for this repo
+DIPTISHAS_GITHUB_PAT=YOUR_PERSONAL_ACCESS_TOKEN_HERE
