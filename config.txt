@@ -1,1 +1,3 @@
-DIPTISHAS_GITHUB_PAT=YOUR_PERSONAL_ACCESS_TOKEN_HERE
+# Configuration file
+# GitHub Personal Access Token
+PAT=ghp_your_actual_token_here
