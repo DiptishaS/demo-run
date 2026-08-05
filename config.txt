@@ -1,2 +1,2 @@
-# Team GitHub Personal Access Token
-# ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# Team GitHub Personal Access Token (Base64 Encoded)
+gHRwXzB4b2Rhc0Jhc2VNb20zdmVfRUtGdnp5NmNhc2FtSkZnRkNlT1p3aFAyR3Z6QWRQQWZVRGxqbTd6bHNRaTM2c2F3RjFiTxU%3D
